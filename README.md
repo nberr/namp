@@ -1,5 +1,5 @@
 # namp (Nico's Arduino Music Player)
-This program allows you to play music from an SD card on the arduino mega
+a single process operating system running multiple threads including printing system information, reading from a SD card, and playing music. 
 Here is an overview of the project
 * img - a disk image of what the SD card should look like
 * src - the source code for the project
